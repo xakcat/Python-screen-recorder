@@ -1,0 +1,4 @@
+numpy
+soundcard
+OpenCV-python
+mss
